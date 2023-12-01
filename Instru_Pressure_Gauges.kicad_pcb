@@ -1409,10 +1409,15 @@
       (net 16 "/ADC7") (pinfunction "Pin_8") (pintype "passive+no_connect") (tstamp 95e8e00d-cefb-442c-9562-6f2f6d158601))
     (pad "8" thru_hole oval (at 0 -17.78 270) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 16 "/ADC7") (pinfunction "Pin_8") (pintype "passive+no_connect") (tstamp c9e99072-b37a-49a2-ba9f-7aea47094be6))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model ":PERSO:3D/Connectors/Header/Socket/SSQ-108-04-G-S.stp"
+      (offset (xyz 0 -8.9 -1.6))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 90))
     )
   )
 
@@ -1635,10 +1640,15 @@
       (net 52 "/D7") (pinfunction "Pin_8") (pintype "passive+no_connect") (tstamp 9b9cd95d-d08d-49d2-aea1-3e9d3de36ba7))
     (pad "8" thru_hole oval (at 0 -17.78 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 52 "/D7") (pinfunction "Pin_8") (pintype "passive+no_connect") (tstamp 8e7028ac-e519-408a-9432-e4e261a079e6))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model ":PERSO:3D/Connectors/Header/Socket/SSQ-108-04-G-S.stp"
+      (offset (xyz 0 -8.9 -1.6))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 90))
     )
   )
 
@@ -1955,10 +1965,15 @@
       (net 39 "/D8") (pinfunction "Pin_10") (pintype "passive+no_connect") (tstamp b04e9054-f7e4-4724-abb3-4cb933657beb))
     (pad "10" thru_hole oval (at 2.54 -22.86 270) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 39 "/D8") (pinfunction "Pin_10") (pintype "passive+no_connect") (tstamp 23e17f19-8b4f-40e7-b88a-080efcd9c7d5))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x10_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x10_P2.54mm_Vertical.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model ":PERSO:3D/Connectors/Header/Socket/SSQ-110-04-G-S.stp"
+      (offset (xyz 0 -11.45 -1.6))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 90))
     )
   )
 
@@ -2062,7 +2077,7 @@
       (rotate (xyz 0 0 90))
     )
     (model ":PERSO:3D/Connectors/Header/Socket/SSQ-108-04-G-S.stp"
-      (offset (xyz -2.54 -8.89 -2))
+      (offset (xyz 0 -8.9 -1.6))
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 90))
     )
@@ -2157,10 +2172,15 @@
       (net 24 "/TXD3") (pinfunction "Pin_8") (pintype "passive+no_connect") (tstamp 45646b3b-6e2a-4b0e-8d99-f3408dfeb7a7))
     (pad "8" thru_hole oval (at 0 -17.78 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 24 "/TXD3") (pinfunction "Pin_8") (pintype "passive+no_connect") (tstamp 2f32900a-b526-4a21-82c8-e7d7b25c5abe))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model ":PERSO:3D/Connectors/Header/Socket/SSQ-108-04-G-S.stp"
+      (offset (xyz 0 -8.9 -1.6))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 90))
     )
   )
 
@@ -2362,9 +2382,14 @@
     (pad "8" thru_hole oval (at 0 -17.78 270) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 8 "/ADC15") (pinfunction "Pin_8") (pintype "passive+no_connect") (tstamp 21e8841c-8294-48b8-afdf-485c80bd5ded))
     (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl"
-      (offset (xyz 0 0 0))
+      (offset (xyz -2.54 0 -1.6))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 180 0))
+    )
+    (model ":PERSO:3D/Connectors/Header/Socket/SSQ-108-04-G-S.stp"
+      (offset (xyz 0 -8.9 -1.6))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 90))
     )
   )
 
